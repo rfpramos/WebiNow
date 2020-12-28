@@ -30,5 +30,5 @@ This MIT License is a new release based-off of the modification from(see indicat
 * Copyright 2013-2020 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
 
-The Modifications were done to fit the needs of WebiNow's Funcitionalities.
+The Modifications, significant I may add, were done to fit the needs of WebiNow's Funcitionalities.
  
