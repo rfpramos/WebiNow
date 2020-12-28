@@ -11,8 +11,21 @@ WebiNow is where the webinars are.
 It is a platform that allows you to find webinars that are soon to happen, so that you'll be able to have the opportunity to learn through participating them. You can view these webinars through catergories so that you'll be able to find what you are looking for. Furthermore, it is also indicated wether the webinar is free for public or not.
 Want to conduct your own webinar? No problem! Webinar is here to help you manage and host your own webinar. You may add your webinar to our database so that others will be able to see your own webinar and possibly join them. Just add a request via this website, and we'll process them!
 
+Web Dev: HTML/CSS/JS/SCSS/PHP/React/ 
 
 Developer: Ramnick Francis Ramos
+--
+Links:
+
+Web Deployments:
+http://webinow.surge.sh
+https://rfpramos.github.io/WebiNow/
+
+Sourcecode:
+https://github.com/rfpramos/WebiNow
+
+Youtube Demonstration/Explanation:
+https://youtu.be/pGrJekByuaI
 
 I don't know why I am referring to "us" in the video demonstration; maybe due to the force of habit, but I am the Solo Developer, Visionary, and Presenter of this.
 --
