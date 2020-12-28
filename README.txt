@@ -13,6 +13,8 @@ Want to conduct your own webinar? No problem! Webinar is here to help you manage
 
 
 Developer: Ramnick Francis Ramos
+
+I don't know why I am referring to "us" in the video demonstration; maybe due to the force of habit, but I am the Solo Developer, Visionary, and Presenter of this.
 --
 The MIT License (MIT)
 
